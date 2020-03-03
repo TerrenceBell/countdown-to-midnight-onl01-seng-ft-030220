@@ -8,7 +8,7 @@ end
 return "HAPPY NEW YEAR!"
 end
 
-def countdown_with_sleep(number)
+def countdown_with_sleep(6)
   while number > 0
   sleep 6.seconds
   number -= 0
